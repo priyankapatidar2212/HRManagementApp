@@ -1,0 +1,6 @@
+com\nagarro\HREmployeeManagementApp\entity\Employee.class
+com\nagarro\HREmployeeManagementApp\HrEmployeeManagementAppApplication.class
+com\nagarro\HREmployeeManagementApp\controller\ClientController.class
+com\nagarro\HREmployeeManagementApp\dao\HRDao.class
+com\nagarro\HREmployeeManagementApp\entity\HRDetail.class
+com\nagarro\HREmployeeManagementApp\controller\HRController.class
